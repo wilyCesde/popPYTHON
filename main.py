@@ -1,0 +1,13 @@
+from Hero import Hero
+
+# PARA USUAR UNA CLASE DEBO CREAR UNA INSTANCIA
+
+# UN OBJETO ES UNA VARIABLE PERO (ESPECIAL)
+
+objeto = Hero()
+
+# COMO USO EL OBJETO
+
+# LLAMO LOS ATRIBUTOS
+
+objeto.nombre = "Goku"
